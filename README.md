@@ -15,4 +15,4 @@ Open to collaborate on just about anything — feel free to reach out!
 
 ---
 
-😄 **Pronouns:** She/Her &nbsp;|&nbsp; ⚡ **Fun fact:** Still working on this one!
+😄 **Pronouns:** She/Her &nbsp;|&nbsp; ⚡ **Fun fact:** :/
