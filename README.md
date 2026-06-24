@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🐛 About Me
 I am an aspiring researcher and developer currently pursuing my B.Sc. in CSE at BRAC University. I work at the intersection of **Health Informatics, Natural Language Processing (NLP), and Computer Vision**. My primary mission is to create affordable, human-centric health and well-being technologies designed for underrepresented communities.
 
 * 🔬 **Current Focus:** Building an Action Recognition pipeline utilizing VQA and IoT devices to assist elderly Dementia patients.
